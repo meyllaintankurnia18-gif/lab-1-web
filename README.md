@@ -9,7 +9,7 @@ ini adalah tampilannya
 Lalu buka git =scm <p>
 ketikkan seperti gambar di bawah ini
 ![Gambar 2](screenshot/ss2.png)
-![Gambar3](screemshot/ss3.png)
+![Gambar3](screenshot/ss3.png)
 
 Setelah itu, akan muncul layar seperti ini:
 ![Gambar4](screenshot/ss4.png)
